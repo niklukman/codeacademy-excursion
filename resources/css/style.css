@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head {
+  font-weight: normal;
+  font-size: 50px;
+  margin: 50px auto;
+}
+
+.link {
+  font-size: 16px;
+  color: aquamarine;
+  margin: 32px auto;
+}
+
+.app {
+  margin: 32px auto;
+}
+
+.subhead {
+  font-weight: 300;
+  font-size: 42px;
+  margin: 42px auto;
+}
+
+.gray-text {
+  font-size: 21px;
+  color: gray;
+  margin: 32px auto;
+}
+
+img {
+  display: block;
+  margin: 32px auto;
+}
+
+.foot {
+  text-align: right;
+  color: gray;
+  margin: 32px 32px 32px auto;
+}
